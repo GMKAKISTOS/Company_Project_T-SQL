@@ -24,7 +24,7 @@ This repository contains a T-SQL script for creating and managing a database rel
 1.  Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/panoschron97/Company_Project_T-SQL.git
+    git clone https://github.com/GMKAKISTOS/Company_Project_T-SQL.git
     cd Company_Project_T-SQL
     ```
 
